@@ -17,4 +17,4 @@ To run this lab locally, you will need:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/sql-injection-lab.git](https://github.com/YourUsername/sql-injection-lab.git)
+   git clone [https://github.com/XDiJ/sql-injection-lab.git](https://github.com/XDiJ/sql-injection-lab.git)
